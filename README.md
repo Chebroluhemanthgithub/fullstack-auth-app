@@ -27,11 +27,9 @@ It includes **user registration, login, JWT-based authentication, protected rout
 
 ---
 
-## 🚀 Getting Started (Local)
-
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/Chebroluhemanthgithub/fullstack-auth-app.git
-cd fullstack-auth-app
+
 
 
