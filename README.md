@@ -33,3 +33,56 @@ git clone https://github.com/Chebroluhemanthgithub/fullstack-auth-app.git
 
 
 
+Backend Setup
+cd backend
+npm install
+
+
+Create a .env file (never commit this):
+
+PORT=5000
+MONGO_URI=
+JWT_SECRET=
+
+
+Start backend:
+
+npm run dev
+
+3. Frontend Setup
+cd frontend
+npm install
+
+
+You can use .env for frontend (public API URL only):
+
+VITE_API_URL=http://localhost:5000/api
+
+
+Start frontend:
+
+npm run dev
+
+
+Now open http://localhost:5173
+ in your browser.
+
+✅ Usage
+
+Register a new user account.
+
+Login with registered credentials.
+
+Access protected Dashboard after authentication.
+
+⚠️ Notes
+
+Do NOT commit backend/.env (contains secrets)
+
+Frontend .env is safe to commit if it only contains the public API URL
+
+LocalStorage is used for session persistence in this demo
+
+🔗 Live Demo
+
+(Optional – you can add your deployed URL here if hosted)
