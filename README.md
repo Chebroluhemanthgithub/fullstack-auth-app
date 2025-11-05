@@ -24,23 +24,6 @@ It includes **user registration, login, JWT-based authentication, protected rout
 - Dark-themed UI
 - LocalStorage session persistence
 
----
-fullstack-auth-app/
-├── backend/
-│ ├── config/ # MongoDB connection
-│ ├── controllers/ # Auth controller
-│ ├── models/ # User model
-│ ├── routes/ # API routes
-│ └── server.js # Express server entry
-│
-└── frontend/
-├── src/
-│ ├── pages/ # Login, Register, Dashboard
-│ ├── utils/ # API helpers, ProtectedRoute
-│ ├── App.jsx # Main routing
-│ └── main.jsx # Vite entry point  
-
-
 
 ---
 
