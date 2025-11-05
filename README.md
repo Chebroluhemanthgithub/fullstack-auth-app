@@ -34,5 +34,4 @@ It includes **user registration, login, JWT-based authentication, protected rout
 git clone https://github.com/Chebroluhemanthgithub/fullstack-auth-app.git
 cd fullstack-auth-app
 
-## ⚡ Project Structure
 
