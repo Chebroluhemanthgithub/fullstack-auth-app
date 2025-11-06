@@ -9,7 +9,7 @@ It includes **user registration, login, JWT-based authentication, protected rout
 
 - **Frontend:** React.js, Vite, Tailwind CSS, React Router
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB (local or Atlas)
+- **Database:** MongoDB (local)
 - **Authentication:** JWT (JSON Web Token)
 - **HTTP Requests:** Axios
 
