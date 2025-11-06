@@ -85,4 +85,4 @@ LocalStorage is used for session persistence in this demo
 
 🔗 Live Demo
 
-(Optional – you can add your deployed URL here if hosted)
+(https://fullstack-auth-app-five.vercel.app/login) - for frontend
