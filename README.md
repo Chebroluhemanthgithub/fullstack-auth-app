@@ -83,6 +83,3 @@ Frontend .env is safe to commit if it only contains the public API URL
 
 LocalStorage is used for session persistence in this demo
 
-🔗 Live Demo
-
-(https://fullstack-auth-app-five.vercel.app/login) - for frontend
