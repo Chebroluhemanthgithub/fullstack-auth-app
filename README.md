@@ -81,5 +81,9 @@ Do NOT commit backend/.env (contains secrets)
 
 Frontend .env is safe to commit if it only contains the public API URL
 
-LocalStorage is used for session persistence in this demo
+LocalStorage is used for session persistence in this demo    
+
+
+
+https://github.com/user-attachments/assets/12338669-5093-44be-ac75-a36f66a18e4b
 
